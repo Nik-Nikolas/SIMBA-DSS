@@ -1,5 +1,7 @@
 # SIMBA-DSS
 
+simba.su
+
 The SIMBA DSS decision support system consists of 2 applications: SIMBA SOLVER and SIMBA PLANNER.
 
 SIMBA SOLVER application is a working environment for modeling the process of finding the optimal solution (search for the optimal alternative). The program includes two independent decision-making methods: the AWSM method and the Franklin method. Thus, you can work with any method independently, using another method if necessary (second opinion).

@@ -1,5 +1,6 @@
 # SIMBA-DSS
 
+(c) 2017-2024 Igor Lobanov
 http://simba.su
 
 The SIMBA DSS decision support system consists of 2 applications: SIMBA SOLVER and SIMBA PLANNER.
